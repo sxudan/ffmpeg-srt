@@ -3,3 +3,6 @@
 /prebuilt/
 .DS_Store
 .idea
+
+flutter/flutter_platform_interface/pubspec.lock
+tools/android/.gradle/
